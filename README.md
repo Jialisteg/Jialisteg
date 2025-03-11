@@ -10,7 +10,7 @@
 
 I'm a Mechanical Engineer and Data Scientist based in Santiago, Chile, passionate about integrating engineering principles with innovative data-driven solutions. My professional focus is on renewable energy projects, as well as staying engaged with the evolving tech landscape.
 
-I strongly believe in continuous learning and personal development, viewing each day as an opportunity to explore new technologies, address complex challenges, and enhance my skill set. Currently, I am deepening my expertise in data science and machine learning while maintaining solid foundations in mechanical engineering. I plan to pursue a Master's degree in Information Technology to further strengthen my capabilities in data-driven solutions.
+I strongly believe in continuous learning and personal development, viewing each day as an opportunity to explore new technologies, address complex challenges, and enhance my skill set. Currently, I am deepening my expertise in data science and machine learning while maintaining solid foundations in mechanical engineering. I plan to pursue a Master's degree in Information Technology to further immerse myself in the rapidly evolving tech landscape, with a particular focus on artificial intelligence, machine learning, and cutting-edge computational technologies.
 
 ### 🎯 What Drives Me
 
