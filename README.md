@@ -4,13 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Mechanical+Engineer;Data+Scientist;Physics+Enthusiast;Energy+%26+Sustainability+Advocate" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5OWQ0MzBmZDM4ZDM0ZmQ5MzFkYzFhZDQzZmU1YzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" style="margin-top: 0px; margin-left: 20px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5OWQ0MzBmZDM4ZDM0ZmQ5MzFkYzFhZDQzZmU1YzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<div align="justify">
 I'm a Mechanical Engineer and Data Scientist based in Santiago, Chile, passionate about integrating engineering principles with innovative data-driven solutions. My professional focus is on renewable energy projects, as well as staying engaged with the evolving tech landscape.
 
 I strongly believe in continuous learning and personal development, viewing each day as an opportunity to explore new technologies, address complex challenges, and enhance my skill set. Currently, I am deepening my expertise in data science and machine learning while maintaining solid foundations in mechanical engineering. I plan to pursue a Master's degree in Information Technology to further immerse myself in the rapidly evolving tech landscape, with a particular focus on artificial intelligence, machine learning, and cutting-edge computational technologies.
+</div>
 
 ### 🎯 What Drives Me
 
@@ -68,7 +70,10 @@ I strongly believe in continuous learning and personal development, viewing each
 
 ## 📚 Currently Learning
 
+<div align="justify">
 I'm always excited to learn new technologies and improve my skills. Currently focusing on:
+</div>
+
 - Advanced Machine Learning techniques
 - Cloud Architecture and DevOps practices
 - IoT applications in renewable energy
