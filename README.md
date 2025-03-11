@@ -1,7 +1,7 @@
 # Javier Aliste 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Mechanical+Engineer;Data+Scientist;Physics+Enthusiast;Energy+%26+Sustainability+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Mechanical+Engineer+%26+Data+Scientist;Physics+Enthusiast;Energy+%26+Sustainability+Advocate" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
