@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5OWQ0MzBmZDM4ZDM0ZmQ5MzFkYzFhZDQzZmU1YzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Mechanical Engineer and Data Scientist based in Santiago, Chile, passionate about integrating engineering principles with innovative data-driven solutions. My professional focus is on renewable energy projects, as well as staying engaged with the evolving tech landscape.
+I'm a Mechanical Engineer and Data Engineer based in Santiago, Chile, passionate about integrating engineering principles with innovative data-driven solutions. My professional focus is on renewable energy projects, as well as staying engaged with the evolving tech landscape.
 
 I strongly believe in continuous learning and personal development, viewing each day as an opportunity to explore new technologies, address complex challenges, and enhance my skill set. Currently, I am deepening my expertise in data science and machine learning while maintaining solid foundations in mechanical engineering.
 
