@@ -38,6 +38,9 @@ I plan to pursue a Master's degree in Information Technology to further immerse 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 #### Data Engineering
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-117865?style=flat-square&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
